@@ -1,4 +1,4 @@
-*AGI (Artificial General Intelligence) Resource Website*
+**AGI (Artificial General Intelligence) Resource Website**
 
 Welcome to the AGI Resource Website! Our platform is dedicated to providing comprehensive resources and information on Artificial General Intelligence (AGI) to users from all backgrounds. Whether you're an enthusiast, a researcher, a student, or a curious mind, our website is designed to be your go-to destination for everything related to AGI.
 
